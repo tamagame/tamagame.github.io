@@ -1,0 +1,20 @@
+<style> 
+  #gambar1{
+    position: absolute;
+    top: 32px;
+    left: 20%;
+  }
+  #gambar2{
+    position: absolute;
+    top: 32px;
+    left: 41%;
+  }
+  #gambar3{
+    position: absolute;
+    top: 32px;
+    left: 61%;
+  }
+</style>
+<img src="hati.png" height="50px" width="50px" id="gambar1">
+<img src="hati.png" height="50px" width="50px" id="gambar2">
+<img src="hati.png" height="50px" width="50px" id="gambar3">

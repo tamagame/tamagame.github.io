@@ -1,0 +1,8 @@
+<style>
+  #gambar1{
+    position: absolute;
+    top: 32px;
+    left: 41%;
+  }
+</style>
+<img src="hati.png" height="50px" width="50px" id="gambar1">
